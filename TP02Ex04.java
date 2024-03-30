@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         String[][] matriz ={
-                String[][] matriz ={
                 {"Hoje ", "está ", "nublado"},
                 {"Amanhã ", "estará ", "sol"}
         };
